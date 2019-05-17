@@ -1,4 +1,4 @@
-# 3.5 inch TFT Breakout PCB
+# 3.5 inch TFT LCD Display Breakout PCB
 
 <a href="http://www.adafruit.com/products/2050"><img src="assets/image.jpg?raw=true" width="500px"><br/>
 Click here to purchase one from the Adafruit shop
